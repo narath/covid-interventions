@@ -11,6 +11,7 @@ Healthy individuals not yet exposed.
     * [WHO Vaccine tracker](https://www.who.int/immunization/research/vaccine_pipeline_tracker_spreadsheet/en/)
     * [Stat news vaccine tracker](https://www.statnews.com/feature/coronavirus/drugs-vaccines-tracker/)
     * [BioRender Vaccine Tracker](https://biorender.com/covid-vaccine-tracker))
+    * [NY Times Vaccine Tracker](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
  
 * what can reduce healthy patients from being exposed 
   * [WHO guidance](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)
